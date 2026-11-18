@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dict>
+    <key>guanqia1</key>
+    <string>第一关</string>
+    <key>guanqia2</key>
+    <string>第二关</string>
+    <key>guanqia3</key>
+    <string>第三关</string>
+    <key>exit1</key>
+    <string>返回</string>
+    <key>exit2</key>
+    <string>菜单</string>
+    <key>bestscore</key>
+    <string>最高分</string>
+    <key>nowscore</key>
+    <string>最终分</string>
+</dict>

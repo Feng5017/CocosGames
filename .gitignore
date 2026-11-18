@@ -1,0 +1,20 @@
+# Generated build outputs and IDE caches
+[Dd]ebug.win32/
+[Rr]elease.win32/
+.vs/
+ipch/
+.gradle/
+__pycache__/
+*.obj
+*.pch
+*.ipch
+*.pdb
+*.ilk
+*.idb
+*.sdf
+*.opensdf
+*.suo
+*.tlog
+*.lastbuildstate
+*.user
+*.log
