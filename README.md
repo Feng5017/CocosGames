@@ -1,4 +1,4 @@
-# cocosgame
+# CocosGames
 
 基于 C++ 与 Cocos2d-x 的个人游戏项目合集，保留游戏源码、资源、工程配置及各项目自带的引擎依赖。
 
